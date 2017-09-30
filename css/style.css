@@ -1,0 +1,61 @@
+.container {
+    width: 1024px; 
+    margin: 0 auto;
+}
+nav {
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+nav ul {
+	float: right;
+}
+nav li {
+    float: left;
+    width: auto;
+}
+nav li a {
+    padding: 30px 30px;
+    position: relative;
+    top: 100px;
+    text-decoration: none;
+    color: maroon;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+nav li a {
+    background: none;
+}
+
+ #LeftNavPhoto {
+background: url() no-repeat top left;
+    background-size: 100px;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 10px;
+} 
+
+#hero {
+	/*background: url(https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/21827032_1450098148379220_6870087660703055872_n.jpg) no-repeat top left;*/
+  background-color: beige; 
+  background-size: cover;
+	height: 1024px;
+	padding: 30px 0;
+  position: static;
+ 
+}
+
+p {
+  position: relative;
+  top: 20%;
+  right: 0%;
+  margin: 10px;
+  padding: 10px 10px;
+  color: maroon;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  
+}
