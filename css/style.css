@@ -15,9 +15,10 @@ nav li {
     width: auto;
 }
 nav li a {
-    padding: 30px 30px;
+    padding: 20px 20px;
     position: relative;
-    top: 100px;
+    top: 30px;
+    left: 8px;
     text-decoration: none;
     color: maroon;
     font-family: sans-serif;
@@ -29,19 +30,19 @@ nav li a {
 }
 
  #LeftNavPhoto {
-    background: url(/Logomakr_3YzGmp.png) no-repeat top left;
+    /*background: url(../Logomakr_3YzGmp.png) no-repeat top left;*/
     background-size: 100px;
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     float: left;
     margin: 10px;
 } 
 
 #hero {
-	/*background: url(https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/21827032_1450098148379220_6870087660703055872_n.jpg) no-repeat top left;*/
+  background: url(../Logomakr_3YzGmp.png) no-repeat top left;
   background-color: beige; 
   background-size: cover;
-	height: 1024px;
+	height: 700px;
 	padding: 30px 0;
   position: static;
  
