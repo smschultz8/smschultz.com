@@ -60,3 +60,10 @@ p {
   font-weight: normal;
   
 }
+footer {
+   position: relative; 
+   top: 40%
+   margin: 10px;
+   font-size: 10px;
+   background-color: beigh;
+}
