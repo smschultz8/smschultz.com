@@ -81,6 +81,7 @@ footer {
 
 body {
     background-color: beige;
+    position: relative;
 }
 
 #TextAM {
@@ -90,7 +91,24 @@ body {
     font-size: 20px;
     padding: 20px 20px;
     margin: 10px;
-    bottom: 40px;
-    left: 30px;
+    left: 10%;
 }
 
+ ul {
+	float: right;
+}
+ li {
+    float: left;
+    width: auto;
+}
+ li a {
+    padding: 20px 20px;
+    position: relative;
+    top: 30px;
+    left: 8px;
+    text-decoration: none;
+    color: maroon;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+ }
