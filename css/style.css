@@ -67,3 +67,12 @@ footer {
    font-size: 10px;
    background-color: beigh;
 }
+
+#AboutMePhoto {
+    background: url(../SarahBioImage1.jpg) no-repeat top left;
+    background-color: beige; 
+    background-size: cover;
+      height: 700px;
+      padding: 30px 0;
+    position: static;
+}
